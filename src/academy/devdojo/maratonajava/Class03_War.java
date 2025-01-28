@@ -1,4 +1,4 @@
-package academy.devdojo.maratonajava.PrimitiveTypes;
+package academy.devdojo.maratonajava;
 
 public class Class03_War {
     public static void main(String[] args) {

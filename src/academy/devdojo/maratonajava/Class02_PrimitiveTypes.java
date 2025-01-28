@@ -1,4 +1,4 @@
-package academy.devdojo.maratonajava.PrimitiveTypes;
+package academy.devdojo.maratonajava;
 
 public class Class02_PrimitiveTypes {
     public static void main(String[] args) {
@@ -19,7 +19,7 @@ public class Class02_PrimitiveTypes {
 
 
         System.out.println("His name is " + name);
-        System.out.println("He is "+age +" years old");
+        System.out.println("He is " + age + " years old");
         System.out.println("His salary is " + salaryFloat);
     }
 }
